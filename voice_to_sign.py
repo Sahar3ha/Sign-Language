@@ -27,7 +27,6 @@ def recognize_speech():
 gesture_map = {
     "hi": "gesture_data/Hi/1.png",
     "a": "gesture_data/A/1.png",
-    # Add more mappings as needed
 }
 
 # Function to display gesture
